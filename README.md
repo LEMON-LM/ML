@@ -1,1 +1,1 @@
-There are some project about ML that I had complete on Udacity.
+There are some projects about ML that I had complete on Udacity.
